@@ -1790,10 +1790,12 @@ function App() {
             "
           >
             <span>React</span>
+            <span>TailwindCSS</span>
             <span>Node.js</span>
             <span>Docker</span>
             <span>AWS</span>
             <span>Linux</span>
+
           </div>
 
           <div
